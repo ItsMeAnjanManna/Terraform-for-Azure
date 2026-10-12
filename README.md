@@ -1,1 +1,3 @@
 # Terraform-for-Azure
+
+This repo is for learning Terraform for Azure. Here we will write codes for making various components of Azure like VM, Storage Account, Key vaults, NSG etc. Follow along....
